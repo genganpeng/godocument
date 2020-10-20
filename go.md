@@ -162,6 +162,6 @@ goland创建工程，选择go module
 
 在goland命令行中执行go mod tidy,下载的依赖放在$GOPATH的pkg中
 
-![image-20201018202644591](F:\文档\go_piciture\image-20201018202644591.png)
+![image-20201018202644591](go_piciture\image-20201018202644591.png)
 
 运行
